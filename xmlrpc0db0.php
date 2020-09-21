@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://pakistanbioscientist-2.ilobia.com</homePageLink>
+		<homePageLink>http://pakbioscience-mbc.org</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://pakistanbioscientist-2.ilobia.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://pakistanbioscientist-2.ilobia.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://pakistanbioscientist-2.ilobia.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://pakistanbioscientist-2.ilobia.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://pakistanbioscientist-2.ilobia.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://pakbioscience-mbc.org/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://pakbioscience-mbc.org/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://pakbioscience-mbc.org/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://pakbioscience-mbc.org/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://pakbioscience-mbc.org/wp-json/" />
 			</apis>
 	</service>
 </rsd>
